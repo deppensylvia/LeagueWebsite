@@ -1,0 +1,159 @@
+/***** Basic content *****/
+/**https://azmind.com/bootstrap-4-tutorial-one-page-website/#testimonials-section**/
+body {
+}
+
+.elem-spacing {
+    margin: 15px;
+}
+/***** Header content *****/
+.header {
+}
+
+.main-menu {
+    background-color: #D1FFC6;
+}
+
+/***** Action bar content *****/
+.action-bar-logo {
+  width: 50px;
+  height: 50px;
+  background-image: url('https://www.thesprucepets.com/thmb/ge_ZS3DrLEhSD-RbG9jwScNNUw0=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/a0047-000145-56a2bce25f9b58b7d0cdf7cf.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: -15px;
+  margin-top: -10px;
+
+}
+
+.pull-inline {
+    position: absolute;
+}
+
+.push-inline {
+    display:inline-block;
+    margin-left: 60px;
+}
+
+.action-bar {
+    background-color: #E8F8C1;
+}
+
+/* End of action bar content */
+
+.alert-banner {
+
+}
+
+/***** Hero section *****/
+
+#hero-section {
+    padding: 210px 0;
+    background-color: #D3C1C3;
+    padding: 150px 0;
+}
+
+#hero-section .text {
+    color: #fff;
+}
+
+#hero-section .text h1 {
+    color: #fff;
+}
+
+.hero-image {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmgoEKIyiw9dl7It6aTjg543h_7K04xYsZaQ&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 70px;
+}
+
+#hero-section .description {
+    margin: 30px 0 10px 0;
+}
+
+#hero-section .description p {
+    opacity: 0.8;
+}
+
+#hero-section .hero-big-link {
+    margin: 15px;
+}
+/***End of hero section ****/
+
+/***** Video promo section *****/
+.video-promo-section {
+    background-color: #E2D0BE;
+    padding: 150px 0;
+}
+/***** End of video promo section *****/
+
+/***** Testimonial section *****/
+.testimonial-section {
+    background-color: #EEE5BF;
+    padding: 150px 0;
+}
+/***** End of testimonial section *****/
+
+/***** Programs section *****/
+#programs-section {
+    background-color: #E8F8C1;
+    padding: 150px 0;
+}
+/***** End of programs section *****/
+
+
+
+/***** About section *****/
+#about-section {
+    background-color: #D1FFC6;
+    padding: 150px 0;
+}
+/***** End of about section *****/
+
+/***** Staff section *****/
+.staff-section {
+    background-color: #D3C1C3;
+    padding: 150px 0;
+}
+
+.loading-dots {
+    margin: 5px;
+}
+/***** End of staff section *****/
+
+/***** FAQ section *****/
+#faq-section {
+    background-color: #E2D0BE;
+    padding: 150px 0;
+}
+
+.faq-box {
+    margin: 15px 0px;
+}
+/***** End of FAQ section *****/
+
+/***** News section *****/
+#news-section {
+    background-color: #EEE5BF;
+    padding: 150px 0;
+}
+/***** End of section *****/
+
+/***** Contact section *****/
+#contact-section {
+    background-color: #E8F8C1;
+    padding: 150px 0;
+}
+/***** End of contact section *****/
+
+/***** Footer content *****/
+.footer {
+    background-color: #D1FFC6;
+    padding: 50px 0;
+}
+
+.social-media {
+    padding: 10px 0;
+}
+/***** End of footer content *****/
