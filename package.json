@@ -1,0 +1,30 @@
+{
+  "name": "leaguewebsite",
+  "version": "1.0.0",
+  "description": "Website Redesign",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deppensylvia/LeagueWebsite.git"
+  },
+  "keywords": [
+    "programming",
+    "coding",
+    "TheLEAGUE",
+    "website"
+  ],
+  "author": "Sylvia Deppen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deppensylvia/LeagueWebsite/issues"
+  },
+  "homepage": "https://github.com/deppensylvia/LeagueWebsite#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
